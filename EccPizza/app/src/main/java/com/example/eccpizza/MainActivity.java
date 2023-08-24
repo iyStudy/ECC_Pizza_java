@@ -54,7 +54,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onFailure(Call<List<Pizza>> call, Throwable t) {
-                // Error handling...
+
             }
         });
     }
