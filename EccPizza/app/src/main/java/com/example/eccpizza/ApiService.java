@@ -1,5 +1,7 @@
 package com.example.eccpizza;
 
+import com.example.eccpizza.model.Pizza;
+
 import java.util.List;
 
 import retrofit2.Call;

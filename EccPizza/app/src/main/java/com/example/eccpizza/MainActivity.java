@@ -7,6 +7,9 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import android.os.Bundle;
 
+import com.example.eccpizza.adapter.PizzaAdapter;
+import com.example.eccpizza.model.Pizza;
+
 import java.util.ArrayList;
 import java.util.List;
 

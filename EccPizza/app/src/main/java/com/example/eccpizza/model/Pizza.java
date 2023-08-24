@@ -1,4 +1,4 @@
-package com.example.eccpizza;
+package com.example.eccpizza.model;
 
 public class Pizza {
     private String pname;
