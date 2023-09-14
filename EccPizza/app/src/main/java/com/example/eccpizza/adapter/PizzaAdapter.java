@@ -76,9 +76,9 @@ public class PizzaAdapter extends RecyclerView.Adapter<PizzaAdapter.PizzaViewHol
             super(itemView);
 
             // itemViewから、各Viewを取得します。
-            pname = itemView.findViewById(R.id.pizza_name);
-            price = itemView.findViewById(R.id.pizza_price);
-            image = itemView.findViewById(R.id.pizza_image);
+            pname = itemView.findViewById(R.id.tv_name);
+            price = itemView.findViewById(R.id.tv_price);
+            image = itemView.findViewById(R.id.iv_menu);
         }
     }
 }

@@ -47,7 +47,7 @@ public class MainActivity extends AppCompatActivity {
         getSupportActionBar().setTitle("ECC Pizza Menu");
 
         // RecyclerViewの初期設定
-        recyclerView = findViewById(R.id.recyclerView);
+        recyclerView = findViewById(R.id.rv_menu_list);
         // RecyclerViewに2列のグリッドレイアウトを設定します。
         recyclerView.setLayoutManager(new GridLayoutManager(this, 2));
         // PizzaAdapterを作成し、RecyclerViewのアダプタとして設定します。

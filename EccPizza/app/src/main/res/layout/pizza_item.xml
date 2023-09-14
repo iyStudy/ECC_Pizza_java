@@ -15,13 +15,13 @@
         android:padding="8dp">
 
         <ImageView
-            android:id="@+id/pizza_image"
+            android:id="@+id/iv_menu"
             android:layout_width="match_parent"
             android:layout_height="200dp"
             android:scaleType="centerCrop" />
 
         <TextView
-            android:id="@+id/pizza_name"
+            android:id="@+id/tv_name"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
@@ -30,7 +30,7 @@
             android:layout_marginTop="8dp"/>
 
         <TextView
-            android:id="@+id/pizza_price"
+            android:id="@+id/tv_price"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_gravity="center"
