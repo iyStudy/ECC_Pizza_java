@@ -42,12 +42,10 @@ dependencies {
     // Retrofit
     implementation("com.squareup.retrofit2:retrofit:2.9.0")
     implementation("com.squareup.retrofit2:converter-gson:2.9.0")
-
-// Glide (for image loading)
+    // Glide (for image loading)
     implementation("com.github.bumptech.glide:glide:4.12.0")
-
-// RecyclerView
+    // RecyclerView
     implementation("androidx.recyclerview:recyclerview:1.3.1")
-
+    // CardView
     implementation("androidx.cardview:cardview:1.0.0")
 }
